@@ -16,3 +16,5 @@ void findFour()
                     cout << i << " " << j << " " << p.first << " " << p.second << endl;
             }
         }
+    }
+}
